@@ -1,6 +1,6 @@
 # eslint-config-vuetify
 
-An opinionated eslint config for Vuetify.
+An opinionated eslint config for Vuetify further opinionated by @xtreemze
 
 ### 💿 Install
 ```bash
