@@ -1,18 +1,18 @@
 {
-  "name": "eslint-config-vuetify",
-  "version": "0.2.0",
-  "description": "eslint config for vue.js projects",
+  "name": "eslint-config-vuetify-strict",
+  "version": "0.0.1",
+  "description": "strict and opinionated eslint config for vue.js projects",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuetify/eslint-config-vuetify.git"
+    "url": "git+https://github.com/xtreemze/eslint-config-vuetify.git"
   },
   "keywords": [
     "eslint",
     "vue",
     "vuetify"
   ],
-  "author": "John Leider <john@vuetifyjs.com>",
+  "author": "Carlos Velasco <carlos@2activedesign.com>",
   "license": "MIT",
   "peerDependencies": {
     "eslint": "^5.12.0"
