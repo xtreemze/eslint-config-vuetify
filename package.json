@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-vuetify-strict",
+  "name": "eslint-config-vuetify-strict-pascal",
   "version": "0.0.1",
-  "description": "strict and opinionated eslint config for vue.js projects",
+  "description": "strict and opinionated eslint config with PascalCase for vue.js projects",
   "main": "index.js",
   "repository": {
     "type": "git",
