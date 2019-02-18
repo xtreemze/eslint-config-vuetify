@@ -46,6 +46,22 @@ module.exports = {
 				"maxBOF": 0
 			}
 		],
+		"vue/array-bracket-spacing": "error",
+		"vue/arrow-spacing": "error",
+		"vue/block-spacing": "error",
+		"vue/brace-style": "error",
+		"vue/camelcase": "error",
+		"vue/comma-dangle": "error",
+		"vue/eqeqeq": "error",
+		"vue/key-spacing": "error",
+		"vue/match-component-file-name": "error",
+		"vue/no-boolean-default": "error",
+		"vue/no-restricted-syntax": "error",
+		"vue/object-curly-spacing": "error",
+		"vue/require-direct-export": "error",
+		"vue/space-infix-ops": "error",
+		"vue/space-unary-ops": "error",
+		"vue/v-on-function-call": "error",
 		"function-paren-newline": [
 			"error",
 			"never"
@@ -81,16 +97,16 @@ module.exports = {
 				]
 			}
 		],
-		'indent': 'off',
+		"indent": "off",
 		"vue/html-closing-bracket-newline": ["error", {
 			"singleline": "never",
 			"multiline": "always"
 		}],
 		"vue/html-closing-bracket-spacing": "error",
-		'vue/script-indent': ['error', 2, {
-			'baseIndent': 1,
-			'switchCase': 1,
-			'ignores': []
+		"vue/script-indent": ["error", 2, {
+			"baseIndent": 1,
+			"switchCase": 1,
+			"ignores": []
 		}],
 		"no-multi-spaces": 1,
 		"no-mixed-spaces-and-tabs": 1,
@@ -116,7 +132,7 @@ module.exports = {
 		],
 		"vue/component-name-in-template-casing": [
 			"error",
-			"PascalCase",
+			"PascalCase"
 
 		]
 	}
