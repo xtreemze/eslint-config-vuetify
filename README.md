@@ -1,12 +1,12 @@
-# eslint-config-vuetify-strict-pascal
+# eslint-config-vuetify-pascal
 
 Strict and opinionated eslint config with PascalCase for Vuetify
 
 ### 💿 Install
 ```bash
-yarn add eslint-config-vuetify-strict-pascal -D
+yarn add eslint-config-vuetify-pascal -D
 # OR
-npm install eslint-config-vuetify-strict-pascal --save-dev
+npm install eslint-config-vuetify-pascal --save-dev
 ```
 
 ### 🚀 Usage

@@ -90,7 +90,7 @@ module.exports = {
 			'baseIndent': 1,
 			'switchCase': 1,
 			'ignores': []
-	  }],
+		}],
 		"no-multi-spaces": 1,
 		"no-mixed-spaces-and-tabs": 1,
 		"vue/multiline-html-element-content-newline": "error",
@@ -116,11 +116,7 @@ module.exports = {
 		"vue/component-name-in-template-casing": [
 			"error",
 			"PascalCase",
-			{
-				"ignores": [
-					"router-view"
-				]
-			}
+
 		]
 	}
 }
