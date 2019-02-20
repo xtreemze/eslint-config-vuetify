@@ -132,7 +132,8 @@ module.exports = {
 		],
 		"vue/component-name-in-template-casing": [
 			"error",
-			"PascalCase"
+			"PascalCase",
+			{ "registeredComponentsOnly": false }
 
 		]
 	}
