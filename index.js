@@ -76,7 +76,7 @@ module.exports = {
 		"padding-line-between-statements": [
 			"error",
 			{
-				"blankLine": "always",
+				"blankLine": "never",
 				"prev": [
 					"const",
 					"let",
@@ -85,7 +85,7 @@ module.exports = {
 				"next": "*"
 			},
 			{
-				"blankLine": "any",
+				"blankLine": "never",
 				"prev": [
 					"const",
 					"let",
