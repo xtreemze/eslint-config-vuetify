@@ -19,6 +19,7 @@ module.exports = {
 				"allowArrowFunctions": true
 			}
 		],
+		"arrow-body-style": ["error", "always"],
 		"keyword-spacing": [
 			"error",
 			{
@@ -41,7 +42,7 @@ module.exports = {
 		"no-multiple-empty-lines": [
 			"error",
 			{
-				"max": 1,
+				"max": 0,
 				"maxEOF": 1,
 				"maxBOF": 0
 			}
@@ -120,14 +121,14 @@ module.exports = {
 		],
 		"comma-dangle": [
 			"error",
-			"never"
+			"always-multiline"
 		],
 		"padded-blocks": [
 			"error",
 			{
-				"blocks": "always",
-				"switches": "always",
-				"classes": "always"
+				"blocks": "never",
+				"switches": "never",
+				"classes": "never"
 			}
 		],
 		"vue/component-name-in-template-casing": [
